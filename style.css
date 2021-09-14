@@ -6,15 +6,11 @@
     background-size: cover;
   } */
 
-  .carousel-item {
-      height: 100%;
-      width: 100%;
-  }
-
-  .carousel.slide {
+  /* .carousel.slide {
       height:400px;
       width: 500px;
-  }
+  } */
+
 
   body, html {
     height: 100%;
