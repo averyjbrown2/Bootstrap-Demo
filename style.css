@@ -25,16 +25,11 @@
 
   body, html {
       height: 100%;
-      /* font-family: 'Courier Prime', monospace;
-      font-family: 'Montserrat', sans-serif; */
-      /* color: white; */
   }
 
   body {
       background: url(assets/image15.jpg);
       height: 100%;
-
-      /* Center and scale the image nicely */
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
