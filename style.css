@@ -11,6 +11,10 @@
       width: 500px;
   } */
   
+.jumbotron {
+    background: black;
+}
+
 .navbar {
     font-family: 'Open Sans', sans-serif;
 }
