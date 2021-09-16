@@ -44,4 +44,5 @@ font-family: 'Open Sans', sans-serif;
 
   .carousel-item {
       height: 500px;
+    /* height:auto; */
   }
