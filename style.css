@@ -15,7 +15,10 @@
     background: black;
     /* font-family: 'Bungee', cursive; */
     font-family: 'Boogaloo', cursive;
+}
 
+.pawprint {
+    height: 60px;
 }
 
 .subheader {
