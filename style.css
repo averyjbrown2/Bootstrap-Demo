@@ -1,15 +1,15 @@
-/* html { 
-    background: url(assets/image15.jpg) no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
+.background-image {
+    background: url(assets/image15.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 500px;
+    /* Center the background image */
+    background-position: center;
+    /* Scale the background image to be as large as possible */
     background-size: cover;
-  } */
 
-  /* .carousel.slide {
-      height:400px;
-      width: 500px;
-  } */
+
+  }
   
 .jumbotron {
     background: black;
