@@ -13,14 +13,18 @@
   
 .jumbotron {
     background: black;
+    /* font-family: 'Bungee', cursive; */
+    font-family: 'Boogaloo', cursive;
+
 }
 
-.navbar {
-    font-family: 'Open Sans', sans-serif;
+.subheader {
+font-family: 'Open Sans', sans-serif;
 }
 
-.row {
-    font-family: 'Oswald', sans-serif;
+.row  {
+    font-family: 'Boogaloo', cursive;
+    
 }
 
   body, html {
